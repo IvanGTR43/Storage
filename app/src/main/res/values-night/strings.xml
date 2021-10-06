@@ -2,4 +2,5 @@
 <resources>
     <string name="home_profile">Perfil</string>
     <string name="home_add">Agregar</string>
+    <string name="btnPost">Publicar</string>
 </resources>
